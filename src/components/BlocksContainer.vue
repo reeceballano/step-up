@@ -182,6 +182,7 @@ export default {
 
 <style lang="scss">
     .stair-container {
+        padding-top: 60px;
         scroll-behavior: smooth;
         height: 550px;
         overflow: hidden;
