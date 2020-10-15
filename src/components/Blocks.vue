@@ -70,13 +70,12 @@ export default {
 
 <style>
 .fighter {
-    transform: scale(5.5) rotate(-30deg) !important;
-    /* transform: rotate(0deg) !important; */
+    transform: scale(4.5) rotate(-40deg)!important;
     position: absolute;
-    top: -96px;
-    right: 34px;
+    top: -81px;
+    right: 49px;
     height: 48px;
     width: 27px;
-    z-index: 9999999999 !important;
+    z-index: -1 !important;
 }
 </style>
