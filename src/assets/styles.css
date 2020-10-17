@@ -32,18 +32,23 @@ body{
 }
 
 .item-row:nth-child(2) {
-    left: 20.7%;
+    left: 20.5%;
     top: 22.4%;
 }
 
 .item-row:nth-child(3) {
-    top: 41.2%;
     left: 28.5%;
+    top: 41.4%;
 }
 
 .item-row:nth-child(4){
     left: 36.5%;
-    top: 59.9%;
+    top: 60.4%;
+}
+
+.item-row:nth-child(5){
+    left: 44.5%;
+    top: 79.9%;
 }
 
 .staircase{

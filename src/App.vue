@@ -1,16 +1,18 @@
 <template>
     <div id="app">
-        <BlocksContainer />
+        <Working />
     </div>
 </template>
 
 <script>
-import BlocksContainer from './components/BlocksContainer';
+// import BlocksContainer from './components/BlocksContainer';
+import Working from './components/Working';
 
 export default {
     name: 'App',
     components: {
-        BlocksContainer
+        // BlocksContainer,
+        Working
     },
 }
 </script>
